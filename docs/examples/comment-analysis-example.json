@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "video_id": "example123",
+    "video_title": "Top 5 VPNs for Traveling in 2025",
+    "video_url": "https://www.youtube.com/watch?v=example123",
+    "brand_name": "ShieldVPN",
+    "collaboration_type": "sponsored",
+    "analyzed_at": "2025-03-15T10:30:00Z",
+    "total_comments": 87,
+    "brand_relevant": 23,
+    "irrelevant": 64
+  },
+  "summary": {
+    "relevance_rate": 26.4,
+    "sentiment": {
+      "positive": { "count": 12, "pct": 52.2 },
+      "neutral": { "count": 8, "pct": 34.8 },
+      "negative": { "count": 3, "pct": 13.0 }
+    },
+    "categories": {
+      "purchase_intent": 5,
+      "product_question": 8,
+      "brand_risk": 2,
+      "competitor_mention": 4,
+      "positive_feedback": 3,
+      "negative_feedback": 1
+    },
+    "high_priority": 3
+  },
+  "comments": [
+    {
+      "id": "c001",
+      "author": "@TravelSafe2025",
+      "text": "Don't trust ShieldVPN, they had a data breach and never disclosed it properly",
+      "business_category": "brand_risk",
+      "sub_category": "false_claim",
+      "priority": "high",
+      "sentiment": "negative",
+      "intent": "complaint",
+      "semantic_score": 0.88,
+      "video_relevance_score": 0.75,
+      "entity_match": "exact_brand",
+      "brand_relevance_score": 91,
+      "is_brand_relevant": true,
+      "key_insight": "Repeats outdated 2018 server incident — needs factual response",
+      "evidence_quoted_text": "had a data breach and never disclosed it",
+      "classification_reason": "Directly challenges brand trustworthiness with historical incident claim",
+      "suggested_action": "reply",
+      "threat_level": "review",
+      "confidence": 0.95,
+      "competitor_mentioned": null
+    },
+    {
+      "id": "c004",
+      "author": "@NomadMike",
+      "text": "Anyone have a discount code for ShieldVPN? Want to get it before my trip",
+      "business_category": "purchase_intent",
+      "sub_category": null,
+      "priority": "medium",
+      "sentiment": "positive",
+      "intent": "question",
+      "semantic_score": 0.85,
+      "video_relevance_score": 0.75,
+      "entity_match": "exact_brand",
+      "brand_relevance_score": 87,
+      "is_brand_relevant": true,
+      "key_insight": "Active purchase consideration — looking for discount code",
+      "evidence_quoted_text": "discount code for ShieldVPN",
+      "classification_reason": "User explicitly wants to purchase ShieldVPN and is seeking a deal",
+      "suggested_action": "reply",
+      "threat_level": "safe",
+      "confidence": 0.98,
+      "competitor_mentioned": null
+    },
+    {
+      "id": "c010",
+      "author": "@RandomViewer",
+      "text": "First! Great video as always",
+      "business_category": "irrelevant",
+      "sub_category": null,
+      "priority": "low",
+      "sentiment": "neutral",
+      "intent": "general",
+      "semantic_score": 0.05,
+      "video_relevance_score": 0.75,
+      "entity_match": "none",
+      "brand_relevance_score": 12,
+      "is_brand_relevant": false,
+      "key_insight": "Generic first comment — no brand relevance",
+      "evidence_quoted_text": "First! Great video",
+      "classification_reason": "Comment is about the video in general, no mention of any product or brand",
+      "suggested_action": "ignore",
+      "threat_level": "safe",
+      "confidence": 0.99,
+      "competitor_mentioned": null
+    }
+  ]
+}

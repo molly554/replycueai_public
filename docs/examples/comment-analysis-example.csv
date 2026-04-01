@@ -1,0 +1,13 @@
+comment_id,author,text,business_category,priority,sentiment,relevance_score,is_brand_relevant,key_insight,suggested_action,competitor_mentioned
+c001,@TravelSafe2025,"Don't trust ShieldVPN, they had a data breach and never disclosed it properly",brand_risk,high,negative,91,true,Outdated breach claim,reply,
+c002,@CyberSecPro,"ShieldVPN logs your data, check the fine print in their privacy policy section 4.2",brand_risk,high,negative,88,true,Privacy policy concern — specific section cited,escalate,
+c003,@ScamAlert99,"FREE ShieldVPN keys here → bit.ly/xxxxx (100% working 2025)",brand_risk,high,neutral,85,true,Scam link distributing fake license keys,escalate,
+c004,@NomadMike,"Anyone have a discount code for ShieldVPN? Want to get it before my trip",purchase_intent,medium,positive,87,true,Asking for discount code,reply,
+c005,@DigitalNomadJess,"Thinking about getting ShieldVPN for my Southeast Asia trip. Worth it?",purchase_intent,medium,positive,84,true,Purchase consideration for travel use case,reply,
+c006,@BackpackerTom,"Does ShieldVPN actually work in China? I've heard they block VPNs",product_question,medium,neutral,82,true,China server access question,reply,
+c007,@ExpressUser,"I switched from RapidVPN to Nord and the speed is about the same honestly",competitor_mention,medium,neutral,79,true,Speed comparison with RapidVPN,monitor,RapidVPN
+c008,@PrivacyFirst,"Has ShieldVPN done an independent no-log audit recently?",product_question,medium,neutral,81,true,Audit transparency question,reply,
+c009,@TechReviewer,"Been using ShieldVPN for 2 years, connection is super stable even on mobile",positive_feedback,low,positive,76,true,Praises long-term stability,monitor,
+c010,@RandomViewer,"First! Great video as always",irrelevant,low,neutral,12,false,Generic first comment,ignore,
+c011,@HikingFan,"What backpack are you using in the intro?",irrelevant,low,neutral,8,false,Off-topic question about gear,ignore,
+c012,@CatLover,"My cat walked across my keyboard while watching this lol",irrelevant,low,positive,5,false,Completely unrelated personal comment,ignore,
