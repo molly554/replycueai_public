@@ -5,9 +5,9 @@
 
 **AI-powered YouTube comment analysis for brands, marketers, and creators.** Analyze comments, detect threats, generate smart replies, and measure KOL collaboration ROI — all from your terminal with Claude Code.
 
-<video width="640" controls>
-  <source src="https://raw.githubusercontent.com/molly554/replycueai_public/main/replycueai.mp4" type="video/mp4">
-</video>
+<div align="center">
+<img src="./replycueai.gif" width="320">
+</div>
 
 > Built by the team behind [ReplyCue AI](https://replycueai.com) — the AI comment moderation platform for YouTube.
 > 
